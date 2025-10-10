@@ -1,0 +1,16 @@
+# Sesame Components
+
+> A curated collection of playful, composable UI components and microinteractions for React projects. Built with React, TypeScript, Tailwind CSS, and Motion (Framer Motion).
+
+Sesame provides copy-paste-ready components and small microinteractions inspired by creative, award-winning web experiences. All components are open source and free for personal and commercial use.
+
+## Additional Resources
+
+- [GitHub Repository](https://github.com/ctrlcat0x/sesameui): Source code and contributions
+- Interactive documentation: https://sesameui.vercel.app/docs (live examples)
+- Installation Guide: https://sesameui.vercel.app/docs/installation
+- Changelog: https://sesameui.vercel.app/docs/changelog
+
+---
+
+All components are available in both interactive format (for developers) and markdown format (for LLMs and documentation tools). Simply append `.md` to any documentation URL to access the markdown version.
